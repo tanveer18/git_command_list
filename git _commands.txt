@@ -1,0 +1,5 @@
+git remote = to check the all origin 
+git remote -v = check the move to code whos origin 
+git checkout -b namebranch = to create a new branch and move also
+git checkout name = switching to your branch (git checkout master ,git checkout develope)
+git branch = show the all branch 
