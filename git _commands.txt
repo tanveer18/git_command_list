@@ -3,3 +3,28 @@ git remote -v = check the move to code whos origin
 git checkout -b namebranch = to create a new branch and move also
 git checkout name = switching to your branch (git checkout master ,git checkout develope)
 git branch = show the all branch 
+git status = check the staging area
+git commit -m "message" = commit 
+git config --global user.name "name" = add your name in git 
+git config --global user.email "mail" = add your mail in git
+git init = initializing git repositer
+git add file name = single file name
+git log = check all commit 
+rm -rf .git = distrove git repositery
+pwd = present working directory
+ls = list all file and folder
+touch filename = make file
+git diff = staging area and modified compare
+git diff --staged  = compare stage modifier
+git rm "filename" = remove file
+git mv "old filename" "new filename" = move file
+git rm --cached filename -remove tracking to untracking
+git -a -m "message" = direct commit
+git log -p = show all commit with diffrent
+git log --stat = show short commit list
+git log --pretty "one line" = show all commit in one line
+git restore --staged "file name" = stage to unstage
+git config --global alias.st status = make a short command 
+
+
+
